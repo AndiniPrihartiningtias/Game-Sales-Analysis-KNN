@@ -1,6 +1,6 @@
 # Game Sales Analysis Using KNN
 
-##Deskripsi
+## Deskripsi
 Project ini menganalisis data penjualan game untuk menjawab pertanyaan
 bisnis terkait wilayah, platform, genre, dan tren penjualan, serta
 menerapkan algoritma K-Nearest Neighbor (KNN) sebagai metode *Supervised
