@@ -6,7 +6,7 @@ bisnis terkait wilayah, platform, genre, dan tren penjualan, serta
 menerapkan algoritma K-Nearest Neighbor (KNN) sebagai metode *Supervised
 Learning* untuk proses klasifikasi data.
 
-# Dataset
+## Dataset
 Dataset yang digunakan merupakan data penjualan game global yang diperoleh
 dari sumber publik (Kaggle).
 
